@@ -7,6 +7,8 @@ import Age from './Age'
 import Dept from './Dept'
 
 export default class App extends Component {
+  
+  //constructor
 
   constructor(props){
     super(props)
